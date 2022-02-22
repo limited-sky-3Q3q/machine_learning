@@ -1,0 +1,1 @@
+tensorboard --logdir="/home/shenrong/concyclics/lab8/Tacotron2/ckpt/v2/logs" --port=6006 --host=localhost
